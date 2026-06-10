@@ -120,6 +120,7 @@ These projects showcase practical applications of Computer Vision in fitness and
 - Smart Gym Camera System
 - Personal AI Fitness Coach
 - Multi-Person Workout Analytics
+- Indentifying accuracy,form Analytics
 
 ---
 
