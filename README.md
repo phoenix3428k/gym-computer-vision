@@ -1,4 +1,4 @@
-# Gym Computer Vision Projects
+# Gym Computer Vision Project
 
 A collection of AI-powered Computer Vision systems designed for gym training, exercise monitoring, posture correction, and performance tracking. These projects use real-time pose estimation, computer vision, and machine learning techniques to help users train smarter, improve exercise form, and reduce injury risks.
 
@@ -88,6 +88,7 @@ These projects showcase practical applications of Computer Vision in fitness and
 - Injury Prevention Monitoring
 - AI Fitness Coaching
 - Sports Performance Analytics
+- Posture Analysis
 
 ---
 
@@ -128,3 +129,4 @@ These projects showcase practical applications of Computer Vision in fitness and
 
 GitHub:
 https://github.com/phoenix3428k
+Contact: debibeura10@gmail.com
