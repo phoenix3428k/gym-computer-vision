@@ -119,7 +119,6 @@ These projects showcase practical applications of Computer Vision in fitness and
 - Pull-Up Tracking System
 - Exercise Recognition Suite
 - Smart Gym Camera System
-- Personal AI Fitness Coach
 - Multi-Person Workout Analytics
 - Indentifying accuracy,form Analytics
 
